@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.CalculationProcessor", "SimpleCalculator.CalculationProcessor\SimpleCalculator.CalculationProcessor.csproj", "{DFBF0030-215B-4295-B5D4-15A1629AF399}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.CalculationProcessor.Test", "SimpleCalculator.CalculationProcessor.Test\SimpleCalculator.CalculationProcessor.Test.csproj", "{AD99A272-551B-439D-855D-583D83D6BD6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DFBF0030-215B-4295-B5D4-15A1629AF399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBF0030-215B-4295-B5D4-15A1629AF399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBF0030-215B-4295-B5D4-15A1629AF399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD99A272-551B-439D-855D-583D83D6BD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD99A272-551B-439D-855D-583D83D6BD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD99A272-551B-439D-855D-583D83D6BD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD99A272-551B-439D-855D-583D83D6BD6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
